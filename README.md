@@ -14,7 +14,7 @@ $ pipenv shell
 $ streamlit run {an-app.py}
 ```
 
-The available applications:
+Replace *{an-app.py}* with one the available apps, e.g:
 
 - ml-app.py
 - uber-app.py
