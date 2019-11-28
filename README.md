@@ -25,5 +25,3 @@ Replace *{an-app.py}* with one the available apps, e.g:
 ### Questions? Comments?
 
 Please ask in the [Streamlit community](https://discuss.streamlit.io).
-
-
